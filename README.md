@@ -6,6 +6,8 @@ How to build a CRUD application using Flask (Python Framework): https://medium.c
 
 The Flask Mega Tutorial: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
+Programming Community Curated Resources for learning Flask: https://hackr.io/tutorials/learn-flask
+
 An Introduction to Python’s Flask Framework: http://code.tutsplus.com/tutorials/an-introduction-to-pythons-flask-framework--net-28822
 
 Flask by Example - Project Setup: https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
